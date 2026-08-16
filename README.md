@@ -1,51 +1,117 @@
+<!-- ========================================================= -->
+<!--                 AADITYA DANDGE PROFILE                   -->
+<!--              CYBERSECURITY DASHBOARD                     -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Aaditya Dandge
-
-### 🛡️ Cybersecurity Student | Network Security | Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Student+%F0%9F%94%90;Network+Security+Enthusiast+%F0%9F%8C%90;Learning+Linux+%26+Python+%F0%9F%90%A7;Building+Security+Projects+%F0%9F%9B%A1%EF%B8%8F;Always+Learning.+Always+Building.+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=900&color=00F7FF&center=true&vCenter=true&width=850&height=70&lines=ACCESSING+Aaditya+Dandge...;CYBERSECURITY+STUDENT+%7C+DEVELOPER;NETWORK+SECURITY+%7C+LINUX+%7C+PYTHON;BUILDING.+LEARNING.+SECURING.;WELCOME+TO+MY+CYBER+PROFILE+%F0%9F%9B%A1%EF%B8%8F" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=aadityadandge&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=aadityadandge&label=SYSTEM%20VISITS&color=00F7FF&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🛡️ About Me
+<div align="center">
 
-I'm **Aaditya Dandge**, an engineering student passionate about **Cybersecurity, Network Security, Programming and IoT**.
+# 🛡️ AADITYA DANDGE
 
-I enjoy learning how computer systems and networks work, exploring security concepts, and building projects that help me improve my technical skills.
+### `CYBERSECURITY STUDENT • DEVELOPER • TECH ENTHUSIAST`
 
 ```text
-┌─────────────────────────────────────────────┐
-│ 👨‍💻 Name       : Aaditya Dandge             │
-│ 🎓 Role       : Cybersecurity Student       │
-│ 🔐 Focus      : Cybersecurity                │
-│ 🌐 Interest   : Network Security             │
-│ 🐧 Learning   : Linux                         │
-│ 🐍 Learning   : Python                        │
-│ 🤖 Exploring  : IoT & Arduino                │
-│ 🚀 Goal       : Become a Cybersecurity Pro   │
-└─────────────────────────────────────────────┘
-🔐 Cybersecurity
-🛡️ Security
-� � � �
-🌐 Networking
-� � � �
-💻 Tech Stack
-🧑‍💻 Programming
-� � � �
-🌐 Web
-� �
-🐧 Tools
-� � � �
-🤖 IoT
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   > INITIALIZING PROFILE...                                │
+│   > USER: AADITYA DANDGE                                   │
+│   > ROLE: CYBERSECURITY STUDENT                            │
+│   > STATUS: ONLINE                                         │
+│   > SYSTEM: LEARNING                                       │
+│   > MISSION: BUILD • LEARN • SECURE                        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 �
-📊 GitHub Analytics
+
+👨‍💻 ABOUT ME
+�
+
+whoami
+I'm Aaditya Dandge, an engineering student interested in:
+🛡️ Cybersecurity
+🌐 Network Security
+🐧 Linux
+🐍 Python
+💻 Programming
+🌐 Web Development
+🤖 IoT & Arduino
+🔎 Security Research & Learning
+I enjoy understanding how systems work, building projects, and continuously improving my technical skills.
+�
+
+�
+
+╔══════════════════════════════╗
+║       CYBER PROFILE          ║
+╠══════════════════════════════╣
+║                              ║
+║  👤 Aaditya Dandge           ║
+║                              ║
+║  🛡️ Cybersecurity            ║
+║  🌐 Networking               ║
+║  🐧 Linux                    ║
+║  🐍 Python                   ║
+║  💻 Development              ║
+║  🤖 IoT                      ║
+║                              ║
+║  STATUS: ONLINE ●            ║
+║                              ║
+╚══════════════════════════════╝
+�
+
+🔐 CYBERSECURITY FOCUS
+�
+
+�
+￼ ￼ ￼ ￼
+
+
+
+�
+￼ ￼ ￼
+�
+
+⚡ TECH STACK
+💻 Programming
+�
+
+�
+￼
+�
+
+🌐 Web Development
+�
+
+�
+￼
+�
+
+🐧 Tools & Platforms
+�
+
+�
+￼
+�
+
+🤖 Hardware
+�
+
+�
+￼
+�
+
+📊 GITHUB COMMAND CENTER
 �
 
 �
@@ -54,73 +120,155 @@ I enjoy learning how computer systems and networks work, exploring security conc
 ￼
 �
 
-🔥 Contribution Streak
+🔥 CONTRIBUTION STREAK
 �
 
 �
 ￼
 �
 
-📈 Contribution Activity
+📈 CONTRIBUTION ACTIVITY
 �
 
 �
 ￼
 �
 
-🧠 Cybersecurity Learning Journey
-Networking          █████████░░░  Learning
-Linux               ████████░░░░  Learning
-Python              ███████░░░░░  Learning
-Web Security        ██████░░░░░░  Learning
-Ethical Hacking     █████░░░░░░░  Exploring
-Digital Forensics   ███░░░░░░░░░  Exploring
-Cloud Security      ██░░░░░░░░░░  Exploring
-🚀 Featured Cybersecurity Projects
-Project
-Description
-🛡️ Cybersecurity Projects
-Security and network security experiments
-🌐 Network Security Lab
-Networking and security learning projects
-🔎 Security Tools
-Python cybersecurity experiments
-🤖 Arduino & IoT
-Microcontroller and IoT projects
-🌐 Web Security
-Web development and security projects
-🎯 2026 Goals
-🔐 Improve Cybersecurity skills
-🌐 Master Computer Networking
-🐧 Learn Linux deeply
-🐍 Improve Python for Cybersecurity
-🔎 Learn Web Application Security
-🛡️ Build real-world security projects
-🧩 Practice CTF challenges
-🚀 Contribute to Open Source
+🟩 CONTRIBUTION MATRIX
+�
+
+�
+￼
+�
+
+📊 DEVELOPMENT STATISTICS
+�
+
+╔═══════════════════════════════╗
+║       DEVELOPMENT MODE        ║
+╠═══════════════════════════════╣
+║                               ║
+║  🔐 Cybersecurity      ████░  ║
+║  🌐 Networking         ███░░  ║
+║  🐧 Linux             ███░░  ║
+║  🐍 Python            ████░  ║
+║  💻 Programming       ████░  ║
+║  🌐 Web Development   ███░░  ║
+║  🤖 IoT               ██░░░  ║
+║                               ║
+╚═══════════════════════════════╝
+�
+
+�
+
+╔═══════════════════════════════╗
+║          STATUS               ║
+╠═══════════════════════════════╣
+║                               ║
+║  SYSTEM       : ONLINE ●      ║
+║  LEARNING     : ACTIVE        ║
+║  BUILDING     : ACTIVE        ║
+║  SECURITY     : ENABLED       ║
+║  COFFEE       : REQUIRED ☕   ║
+║                               ║
+╚═══════════════════════════════╝
+�
+
+🚀 FEATURED PROJECTS
+�
+
+�
+
+🛡️ Cybersecurity Lab
+Security-focused learning projects and experiments.
+Focus
+Security Linux Python Networking
+�
+
+�
+
+🌐 Network Security
+Projects exploring networking and security concepts.
+Focus
+TCP/IP DNS HTTP Networks
+�
+
+�
+
+�
+
+�
+
+🐍 Security Tools
+Python projects created while learning cybersecurity.
+Focus
+Python Automation Security
+�
+
+�
+
+🤖 IoT Security
+Arduino and IoT experiments.
+Focus
+Arduino IoT Embedded
+�
+
+�
+
+🧠 CYBERSECURITY LEARNING PATH
+                    ┌──────────────┐
+                    │  CYBERSECURITY│
+                    └───────┬──────┘
+                            │
+             ┌──────────────┼──────────────┐
+             ▼              ▼              ▼
+        ┌─────────┐    ┌─────────┐    ┌─────────┐
+        │ NETWORK │    │  LINUX  │    │ PYTHON  │
+        └────┬────┘    └────┬────┘    └────┬────┘
+             │              │              │
+             └──────────────┼──────────────┘
+                            ▼
+                    ┌──────────────┐
+                    │ WEB SECURITY │
+                    └───────┬──────┘
+                            ▼
+                    ┌──────────────┐
+                    │  SECURITY    │
+                    │   PROJECTS   │
+                    └──────────────┘
+🎯 2026 MISSION
+[████████████████████]  CYBERSECURITY
+[██████████████████░░]  NETWORKING
+[███████████████░░░░░]  LINUX
+[██████████████░░░░░░]  PYTHON
+[███████████░░░░░░░░░]  WEB SECURITY
+[████████░░░░░░░░░░░░]  OPEN SOURCE
+Mission objectives
+🔐 Strengthen cybersecurity fundamentals
+🌐 Master networking concepts
+🐧 Become comfortable with Linux
+🐍 Build useful Python security tools
+🛡️ Create real-world cybersecurity projects
+🧩 Practice CTF-style challenges
+🚀 Contribute to open source
 📚 Build a strong cybersecurity portfolio
-🧠 Cybersecurity Mindset
-�
+💻 TERMINAL
+aaditya@cyber-lab:~$ whoami
+aaditya
 
-        🔍 OBSERVE
-            ↓
-        🧠 ANALYZE
-            ↓
-        🧪 TEST
-            ↓
-        🛡️ SECURE
-            ↓
-        🚀 IMPROVE
-Think like an attacker. Build like a defender. 🛡️
-�
+aaditya@cyber-lab:~$ cat mission.txt
+Learn.
+Build.
+Secure.
 
-📚 Currently Learning
-�
+aaditya@cyber-lab:~$ status
+[+] SYSTEM ONLINE
+[+] SECURITY MODE ENABLED
+[+] LEARNING MODE ACTIVE
+[+] PROJECT MODE ACTIVE
 
-Cybersecurity • Networking • Linux • Python • Web Security • IoT Security
-�
-
-🤝 Connect With Me
+aaditya@cyber-lab:~$ _
+🤝 CONNECT
 �
 
 �
@@ -129,49 +277,64 @@ Cybersecurity • Networking • Linux • Python • Web Security • IoT Secur
 
 �
 
-🛡️ Security is not just a skill — it's a mindset.
-Keep Learning • Keep Building • Keep Securing 🔐
+
+�
+
+> THINK LIKE AN ATTACKER. BUILD LIKE A DEFENDER.
+🛡️ KEEP LEARNING • KEEP BUILDING • KEEP SECURING
 �
 ```
-🐍 Add the contribution snake
-After saving the README, create this file:
+2. For the animated snake
+Create this exact file:
 .github/workflows/snake.yml
-name: Generate Snake Animation
+name: Generate Cyber Contribution Snake
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
-    branches: [main]
+    branches:
+      - main
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
-    runs-on: ubuntu-latest
-
-    timeout-minutes: 10
-
     steps:
-      - name: Generate Snake SVGs
+
+      - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: aadityadandge
           outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=0891B2&color_dots=#ebedf0,#a5b4fc,#818cf8,#6366f1,#0891B2
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=10B981&color_dots=#2d3343,#4b5563,#7C3AED,#A78BFA,#22D3EE
+            dist/github-snake.svg?color_snake=00F7FF&color_dots=#161B22,#243447,#3B82F6,#8B5CF6,#00F7FF
+            dist/github-snake-dark.svg?color_snake=00F7FF&color_dots=#161B22,#243447,#3B82F6,#8B5CF6,#FF2BD6
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Deploy Snake
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
-          target_branch: output
-          commit_message: "Update snake animation [skip ci]"
+          build_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-The workflow follows the setup guide's recommended Platane/snk approach, including scheduled runs, manual runs, and writing to an output branch. �
-GitHub-Profile-Setup-Guide.pdf
-Don't put the snake code inside README.md. Put it in .github/workflows/snake.yml. After the Action runs successfully, we can add the snake display to your README. The guide specifically recommends waiting until the Action creates the output branch before adding that image. �
-GitHub-Profile-Setup-Guide.pdf
+Important
+Your repository structure should eventually look like:
+aadityadandge/
+│
+├── README.md
+│
+└── .github/
+    └── workflows/
+        └── snake.yml
+Then:
+1. Commit README.md
+2. Commit .github/workflows/snake.yml
+3. Go to Actions → Generate Cyber Contribution Snake → Run workflow
+4. Once it succeeds, the output branch will be generated.
+5. Your README will then display the animated contribution matrix.
+This is much closer to the screenshots you sent: dashboard-style cards + neon cyber theme + live GitHub statistics + activity graph + streak + animated contribution matrix.
+One thing I deliberately did not copy from the screenshot is the other person's portrait, email, social accounts, or fake project statistics. Those should be your own information.
